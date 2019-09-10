@@ -8,13 +8,13 @@ Teams:
 Core:
 Thomas
 
-Gameplay and mechanics: 
+Gameplay and mechanics:
 Thomas
 Dillon
 sid
 
 Level Design:
-Danny 
+Danny
 Luca
 
 Art and Sound:
